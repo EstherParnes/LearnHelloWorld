@@ -12,6 +12,7 @@ namespace HelloWorld
       {
          Console.WriteLine("hello world");
          Console.WriteLine("add another line for commit 2");
+         Console.WriteLine("try git inside VS");
       }
    }
 }
