@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace HelloWorld
 {
+   //i am making comments here
+   //this is for my git rebase exercise
+   //
    class Point
    {
    }
